@@ -1,9 +1,3 @@
-# CSX42: Assignment 1
-## Name: Kumudini Sharad Thote
-
------------------------------------------------------------------------
------------------------------------------------------------------------
-
 
 Following are the commands and the instructions to run ANT on your project.
 #### Note: build.xml is present in wordPlay folder.
